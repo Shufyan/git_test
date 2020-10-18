@@ -1,3 +1,3 @@
 Thi is a sample file for testing new branch.
 
-Added few text from develop branch.
+Added few text from develop branch - new changes.
